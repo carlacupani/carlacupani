@@ -1,28 +1,27 @@
-# Hi, I'm Carla Cupani! 👋
+# Hi, I'm Carla Cupani! 🌸
 
-Welcome to my GitHub profile! 🌟
+Welcome to my GitHub profile! 🧚🏻‍♀️
 
 ## GitHub Stats
-![Jacob's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlacupani&show_icons=true&theme=purple)
+![Carla's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlacupani&show_icons=true&theme=pink) 📊
 
 ## Connect with me
-- [LinkedIn](https://www.linkedin.com/in/carlacupani)
-- [X]()
-- [Personal Website]()
+- [LinkedIn](www.linkedin.com/in/carla-pia-cupani-715554277) 💼
 
-## Skills
+## Skills 🩷
 
 #### Programming Languages
-![Languages](https://skillicons.dev/icons?i=c,js,java)
+![Languages](https://skillicons.dev/icons?i=c,js,java) 💻
 
 #### Frontend Technologies
-![Frontend Technologies](https://skillicons.dev/icons?i=angular,html,css,js,ts)
+![Frontend Technologies](https://skillicons.dev/icons?i=angular,html,css,js,ts) 🎨
 
 #### Backend Technologies
-[![Backend Technologies](https://skillicons.dev/icons?i=docker,laravel,php&perline=3)](https://skillicons.dev)
+[![Backend Technologies](https://skillicons.dev/icons?i=docker,laravel,php&perline=3)](https://skillicons.dev) 🛠️
 
 #### Database & Tools
-![Database & Tools](https://skillicons.dev/icons?i=mysql,mongodb)
+![Database & Tools](https://skillicons.dev/icons?i=mysql,mongodb) 🗄️
 
-#### Other tools & Technologies
-![Others](https://skillicons.dev/icons?i=git,github,vscode,githubactions,gitlab)
+#### Other Tools & Technologies
+![Others](https://skillicons.dev/icons?i=git,github,vscode,githubactions,gitlab) 💡
+
