@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! 🧚🏻‍♀️
 
 ## GitHub Stats
-![Carla's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlacupani&show_icons=true&theme=pink) 📊
+![Carla's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlacupani&show_icons=true&theme=pink)
 
 ## Connect with me
 - [LinkedIn](www.linkedin.com/in/carla-pia-cupani-715554277) 💼
