@@ -19,7 +19,7 @@ Welcome to my GitHub profile! 🌟
 ![Frontend Technologies](https://skillicons.dev/icons?i=angular,html,css,js,ts)
 
 #### Backend Technologies
-[![Backend Technologies](https://skillicons.dev/icons?i=docker,php&perline=3)](https://skillicons.dev)
+[![Backend Technologies](https://skillicons.dev/icons?i=docker,laravel,php&perline=3)](https://skillicons.dev)
 
 #### Database & Tools
 ![Database & Tools](https://skillicons.dev/icons?i=mysql,mongodb)
