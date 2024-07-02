@@ -6,7 +6,7 @@
 </p><br>
 
 
-- 🔭 I’m currently studying at University of Catania
+- 🔭 I’m currently studying at **University of Catania**
 
 - 🌱 I’m currently learning **Cyber Security**
 
