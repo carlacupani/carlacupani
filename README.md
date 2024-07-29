@@ -2,13 +2,7 @@
 <h3 align="center">A passionate FullStack Developer from Italy</h3>
 
 
-<p align="center"><a href="https://tryhackme.com/p/carlacupani" target="blank" rel="noreferrer"> <img src="https://img.shields.io/badge/TryHackMe-9FEF00?style=for-the-badge&logoColor=purple" alt="TryHackMe"/> </a> <a href="https://app.letsdefend.io/public_profile/user/emr4h/d9b506a2-8551-487d-8e7f-b9f59bd89774/" target="_blank"> <img src="https://img.shields.io/badge/LetsDefend-212C42?style=for-the-badge&logo=LetsDefend&logoColor=blue"/></a> 
-</p><br>
-
-
 - 🔭 I’m currently studying at **University of Catania**
-
-- 🌱 I’m currently learning **Cyber Security**
 
 - 💬 Ask me about **Java and PHP**
 
